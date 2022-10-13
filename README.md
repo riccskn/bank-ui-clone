@@ -1,4 +1,4 @@
-# nubank_dark_clone
+# bank-ui-clone
 
 Nubank dark theme clone
 
